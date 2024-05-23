@@ -1,0 +1,15 @@
+.eachcontainer{
+    background-color: aliceblue;
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+.itemimg{
+    height: 180px;
+    width: 100%;
+}
+.para{
+    color: black;
+    font-size: 22px;
+    margin-left: 5px;
+}
